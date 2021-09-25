@@ -10,5 +10,5 @@ Follow this steps :-
 6)then type npm i express mongoose cors nodemone
 7)then type nodemon app.js
 8)Goto FrontEnd and type npm start to start react app
-9)Test App by adding and deleting notes 
+9)Test App by adding and deleting notes
 
